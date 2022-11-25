@@ -1,0 +1,49 @@
+body,html{margin:0;padding:0;height:50%;}
+body{
+  background-size:cover;
+  font-family: 'Cabin Condensed', sans-serif;
+  display:block;
+  flex-direction:column;
+  justify-content:center;
+  text-align: center;
+  margin-top: 75px;
+}
+svg{font-weight:bold;max-width:600px;height:auto;}
+
+div{
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+        margin-top: 50px;
+        
+}
+
+.A{
+    
+    padding: 0px;
+    height: 275px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ddd;
+    
+    
+}
+.img{
+    
+  margin: 0px;
+  width: 215px;
+  height: 215px;
+  background: lightgrey;    
+}
+#divText{
+    
+    font-family: Verdana;
+    font-family: 'PT Sans';
+    
+    
+}
+#link{
+
+  color: black;
+  text-decoration: none;
+
+}
